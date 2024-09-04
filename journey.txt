@@ -1,0 +1,3 @@
+my favorite part of Coding Temple thus far has been learning the command terminal. It makes me feel like a hacker. I havent used enough text editors on this journey to comment which one is my favotie. >> journey.txt
+
+echo my favorite part of Coding Temple thus far has been learning the command terminal. It makes me feel like a hacker. I havent used enough text editors on this journey to comment which one is my favotie.
